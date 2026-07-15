@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+implementation.png
+design-comparison.png
+design-qa.md
+AGENTS.md
+.DS_Store
